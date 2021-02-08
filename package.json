@@ -16,5 +16,12 @@
     "knex": "^0.21.17",
     "node": "^15.7.0",
     "pg": "^8.5.1"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "engines": {
+    "node": "12.9.0"
+
+    }
 }
